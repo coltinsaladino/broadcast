@@ -1,0 +1,175 @@
+body{
+    background-color: #4b0c99;
+}
+
+.container{
+    width: 1080px;
+    margin:0 auto;
+    padding-bottom: 125px;
+}
+
+.info{
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    color: white;
+    margin-top: 300px;
+    font-family: 'Palanquin';
+    column-count: 1;
+    column-gap: 50px;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+.infoInfo{
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    color: white;
+    margin-top: 10px;
+    font-family: 'Palanquin';
+    column-count: 1;
+    column-gap: 50px;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+.navbar{
+    font-family: 'Palanquin Dark';
+    font-size: 25px;
+    margin-top: 50px;
+    position: relative;
+    top: 0;
+    width: 1080px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #4b0c99;
+}
+
+li {
+  width: 25%;
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+
+
+
+li a:hover {
+  background-color: white;
+  color: black;
+}
+
+.home_btn {
+    width: 100px;
+    float: left;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.home_btn:hover {
+  background-color: yellow;
+}
+
+.thomasImg{
+    height: 775px;
+    float: right;
+    margin-top: 95px;
+    opacity: 0%;
+}
+
+.guymanImg{
+    height: 750px;
+    float: left;
+    margin-top: 105px;
+    opacity: 0%;
+}
+
+.logoImg{
+    width: 750px;
+    margin-top: 230px;
+}
+
+.HeaderImg{
+    width: 100%;
+    margin-top: 50px;
+}
+
+.FounderImg{
+    width: 35%;
+    margin-top: 0px;
+    padding-right: 30px;
+    float: left;
+}
+
+.logoBlackImg{
+    height: 75px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    vertical-align: -30px;
+}
+
+.iconlogoImg{
+    height: 70px;
+    position: relative;
+}
+
+.header{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+.footer{
+    background-color: white;
+    height: 175px;
+    font-family: 'Palanquin';
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+}
+
+h1{
+    position: relative;
+    font-family: 'Palanquin Dark';
+    font-size: 60px;
+    color: white;
+}
+
+h2{
+    font-family: 'Palanquin Dark';
+    font-size: 40px;
+    color: white;
+}
+
+.years {
+    font-family: 'Palanquin';
+}
+
+.albums{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
